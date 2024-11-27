@@ -1,0 +1,10 @@
+h1 {
+  color: #800f02;
+  background: #000000;
+}
+
+h1:hover {
+  color: #800f02;
+  background: #ffffff;
+}
+
